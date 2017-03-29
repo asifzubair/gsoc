@@ -1,4 +1,4 @@
-# {{ Title }}
+# Implement Stochastic Gradient Hamiltonian Monte Carlo Sampler 
 
 ## Abstract
 
