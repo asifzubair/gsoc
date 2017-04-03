@@ -49,7 +49,7 @@ Interestingly as well, at the time of writing this proposal, there is a new [Pul
 
 ### July 10th - July 14th
 
-{{ Delieverables }}
+I will be away for this week for the UCLA Computational Genomics Summer Institute's workshop. I will use this time to discuss more theoretical considerations of stochastic gradient approaches in MCMC with researchers at this workshop.
 
 ### July 17th - July 21th, **End of Phase 2**
 
