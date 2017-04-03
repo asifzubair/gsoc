@@ -88,9 +88,9 @@ In addition, I would like to popularise PyMC3 in my department and aim to hold a
 
 {{ Development Experience }}
 
-## Other Experiences
+## Academic Experience
 
-{{ Experience }}
+I am a graduate student in Computational Biology at the University of Southern California and also pursuing a Data Science masters in the Computer Science department. I have had the pleasure to work through extensive Bayesian literature, especially as it relates to systems biology and genetics. I have also worked on several Machine Learning projects, either individually or collectively in teams. 
 
 ## Why this project?
 
