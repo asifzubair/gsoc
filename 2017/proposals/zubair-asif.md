@@ -30,7 +30,7 @@ The crucial idea in stochastic gradient approach is the mini-batch design. We wi
 
 ### June 5th - June 9th
 
-Start implementing the Chen et al. [8] frame work for SGHMC. 
+Start implementing the Chen et al. [8] framework for SGHMC. 
 
 ### June 12th - June 16th
 
