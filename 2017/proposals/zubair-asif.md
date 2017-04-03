@@ -22,7 +22,7 @@ Interestingly as well, at the time of writing this proposal, there is a new [Pul
 
 ### May 1th - May 28th, **Community Bonding Period**
 
-Time will be spent going over the PyMC3 code base and documentation and familiarizing with the style.  Additionally, I'd like to go over more thoroughly how PyMC3 interacts with Theano. More literature research will be done to figure out caveats with the stochastic approaches. State of [PR1977](https://github.com/pymc-devs/pymc3/pull/1977) will be examined to ensure that there is no overlap and use as reference for implementation. 
+Time will be spent going over the PyMC3 code base and documentation and familiarizing with the style. Additionally, I'd like to go over more thoroughly how PyMC3 interacts with Theano. More literature research will be done to figure out caveats with the stochastic gradient approaches. State of [PR1977](https://github.com/pymc-devs/pymc3/pull/1977) will be examined to ensure that there is no overlap and use as reference for implementation. 
 
 ### May 29th - June 3rd
 
@@ -30,23 +30,23 @@ The crucial idea in stochastic gradient approach is the mini-batch design. We wi
 
 ### June 5th - June 9th
 
-The Chen et al. 
+Start implementing the Chen et al. [8] frame work for SGHMC. 
 
 ### June 12th - June 16th
 
-{{ Delieverables }}
+With most of the skeleton code ready, we should start a PR. 
 
 ### June 19th - June 23th, **End of Phase 1**
 
-{{ Delieverables }}
+Commit everything done so far and work on documentation.
 
 ### June 26 - June 30th, **Begin of Phase 2**
 
-{{ Delieverables }}
+Benchmark implementation against [12] and against example target distributions. The current issue with Chen et al. is the tuning which is required. At this stage, we would also like to implement recommendations by Springenberg *et al.* [10]
 
 ### July 3rd - July 7th
 
-{{ Delieverables }}
+We would like to keep this extra week for the Springenberg *et al.* [10] (scale-adapted SGHMC) as it is a little involved and will require work. Strat second PR related to scale-adapted SGHMC.
 
 ### July 10th - July 14th
 
@@ -54,31 +54,31 @@ I will be away for this week for the UCLA Computational Genomics Summer Institut
 
 ### July 17th - July 21th, **End of Phase 2**
 
-{{ Delieverables }}
+We should have both our samplers up and can commit work done thus far. Start working on documentation. 
 
 ### July 24th - July 28th, **Begin of Phase 3**
 
-{{ Delieverables }}
+This phase will be dedicated to documentation, benchmarking and writing examples. In addition, I'd like to create a blog post on my experience so far.
 
 ### July 31st - August 4th
 
-{{ Delieverables }}
+Assess performance of implementation on datasets examined in [10].
 
 ### August 7th - August 11th
 
-{{ Delieverables }}
+Start Jupyter notebook with example usage of the methods and work on documentation.
 
 ### August 14th - August 18th
 
-{{ Delieverables }}
+Go over the PRs and fix any issues and concerns.
 
 ### August 21st - August 25th, **Final Week**
 
-{{ Delieverables }}
+Final week will be dedicated to cleaning up the code and finishing documentation.
 
 ### August 28th - August 29th, **Submit final work**
 
-Merge Pull Request! 
+Hopefully, have a merged PR! 
 
 ## Future works
 
