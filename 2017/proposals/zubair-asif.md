@@ -82,7 +82,7 @@ Long description of the project.
 
 I want to continue contributing to PyMC3 even after the completion of this project. Another project that I am passionate about is the implementation of ordinary differential equation (ODE) solves in PyMC3. Applicaiton areas like systems biology and pharmacokinetics would greatly benefit from having such solvers in the PyMC3 and it will aid in adoption of Bayesian methods by these communities also. 
 
-In addition, I would like to popularise PyMC3 in my department and aim to hold a tutorial on Bayesian appproaches, particularly their implementations in PyMC3 at the conclusion of the summer. 
+In addition, I would like to popularise PyMC3 in my department and aim to hold a tutorial on Bayesian appproaches, particularly their implementations in PyMC3, at the conclusion of the summer. 
 
 ## Development Experience
 
