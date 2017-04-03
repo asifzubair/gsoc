@@ -87,7 +87,7 @@ In addition, I would like to popularise PyMC3 in my department and aim to hold a
 
 ## Development Experience
 
-{{ Development Experience }}
+I am very comfortable with python and R programming languages and use them extensively in my research. I have experience implementing and testing samplers for Bayesian inference. I have also worked with C++ and Java either as part of course work or for personal projects.  I have also worked with the [EPA](https://www.epa.gov/) to develop a [machine learning pipeline](https://dssg.uchicago.edu/project/predictive-enforcement-of-pollution-and-hazardous-waste-violations/) for prioritiziing their inspections. 
 
 ## Academic Experience
 
