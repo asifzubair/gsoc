@@ -1,7 +1,7 @@
 # PyMC3: Implement Stochastic Gradient Hamiltonian Monte Carlo (SGHMC) Sampler 
 
 ## Abstract
-PyMC3 is one of the few libraries that offers gradient based samplers for Bayesian inference. These samplers vastly improve convergence properties of the Markov chain and are indispensible when working with complex models. However, being gradient-based approaches they involve computation of a differential which when working in large parameter spaces can become computationally expensive. Recent literature has, thus, suggested use of a noisy estimate of the gradient which can alleviate some of this problem. However, because of the novelty of this approach, this project will require extensive experimentation on both example target distributions and real data sets, so that reliability of these methods can be specified, while also providing a robust implementation. 
+PyMC3 is one of the few libraries that offers gradient-based samplers for Bayesian inference. These samplers vastly improve convergence properties of the Markov chain and are indispensible when working with complex models. However, being gradient-based approaches they involve computation of a differential which when working in large parameter spaces can become computationally expensive. Recent literature has, thus, suggested use of a noisy estimate of the gradient which can alleviate some of this problem. Here, we propose to implment the startegy proposed by Chen *et al.* alongwith improvements due to Springenberg *et al.* However, because of the novelty of this approach, this project will require extensive experimentation on both example target distributions and real data sets, so that reliability of these samplers can be specified, while also providing a robust implementation. 
 
 ## Technical Details
 
@@ -80,7 +80,9 @@ Long description of the project.
 
 ## Future works
 
-{{ Future works }}
+I want to continue contributing to PyMC3 even after the completion of this project. Another project that I am passionate about is the implementation of ordinary differential equation (ODE) solves in PyMC3. Applicaiton areas like systems biology and pharmacokinetics would greatly benefit from having such solvers in the PyMC3 and it will aid in adoption of Bayesian methods by these communities also. 
+
+In addition, I would like to popularise PyMC3 in my department and aim to hold a tutorial on Bayesian appproaches, particularly their implementations in PyMC3 at the conclusion of the summer. 
 
 ## Development Experience
 
