@@ -109,6 +109,5 @@ My current research interests have involved the use of Bayesian methods for infe
 - [8] Chen T, Fox EB, Guestrin C. (2014) Stochastic Gradient Hamiltonian Monte Carlo. In Proceedings of the 31st International Conference on Machine Learning. Beijing, China. JMLR: W&CP, 32.
 - [9] Shahriari B, Swersky K, Wang Z, Adams RP, de Freitas N. (2015) Taking the Human Out of the Loop: A Review of Bayesian Optimization. Proceedings of the IEEE, 104(1): 148-175.
 - [10] Springenberg JT, Klein A, Falkner S, Hutter F. (2016) Bayesian Optimization with Robust Bayesian Neural Networks. NIPS.
-- [11]
-- [12]
-- [13]
+- [11] Ma Y, Chen T, Fox E. (2015) A Complete Recipe for Stochastic Gradient MCMC. Advances in Neural Information Processing Systems, 28: 2899-2907
+- [12] Monnahan CC, Thorson JT, Branch TA. (2017) Faster estimation of Bayesian models in ecology using Hamiltonian Monte Carlo. Methods in Ecology and Evolution, 8: 339–348, doi: 10.1111/2041-210X.12681 .
