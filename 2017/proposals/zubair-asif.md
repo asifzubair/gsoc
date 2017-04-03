@@ -1,7 +1,7 @@
 # PyMC3: Implement Stochastic Gradient Hamiltonian Monte Carlo (SGHMC) Sampler 
 
 ## Abstract
-PyMC3 is one of the few libraries that offers gradient based samplers for Bayesian inference. These samplers vastly improve convergence properties of the Markov chain and are indespensible when working with complex models. However, being gradient-based approaches they involve computation of a differential which when working in large parameter spaces can become computationally expensive. Recent literature has, thus, suggested use of a noisy estimate of the gradient which can alleviate some of this problem. However, because of the novelty of this approach this project will require experimentation on both exqmple distributions and real data sets, so that reliability of these mehtods can be specified, while also providing a robust implementation. 
+PyMC3 is one of the few libraries that offers gradient based samplers for Bayesian inference. These samplers vastly improve convergence properties of the Markov chain and are indespensible when working with complex models. However, being gradient-based approaches they involve computation of a differential which when working in large parameter spaces can become computationally expensive. Recent literature has, thus, suggested use of a noisy estimate of the gradient which can alleviate some of this problem. However, because of the novelty of this approach, this project will require extensive experimentation on both exqmple distributions and real data sets, so that reliability of these methods can be specified, while also providing a robust implementation. 
 
 ## Technical Details
 
