@@ -98,13 +98,13 @@ Long description of the project.
 
 ### References
 
-[1] Salvatier J, Wiecki TV, Fonnesbeck C. (2016) Probabilistic programming in Python using PyMC3. PeerJ Computer Science 2:e55 https://doi.org/10.7717/peerj-cs.55 .
-[2] Bayes T. (1763) An essay towards solving a Problem in the Doctrine of Chances. Philosophical Transactions of the Royal Society of London, 53: 370.
-[3] Hastings, WK. (1970) Monte Carlo sampling methods using markov chains and their applications. Biometrika, 57(1): 97-109.
-[4] Cipra BA. (2000) The Best of the 20th Century: Editors Name Top 10 Algorithms. SIAM News, 33(4).
-[5] Duane S, Kennedy AD, Pendleton BJ, Roweth D. (1987). Hybrid Monte Carlo. Physics Letters B. 195 (2): 216–222. https://doi.org/10.1016/0370-2693(87)91197-X .
-[6] Stan Development Team. (2015) Stan: a C++ library for probability and sampling . Available at http://mc-stan.org .
-[7] Robbins H, Monro S. (1951) A stochastic approximation method. The Annals of Mathematical Statistics, 22(3): 400–407.
-[8] Chen T, Fox EB, Guestrin C. (2014) Stochastic Gradient Hamiltonian Monte Carlo. In Proceedings of the 31st International Conference on Machine Learning. Beijing, China. JMLR: W&CP, 32.
-[9] Shahriari B, Swersky K, Wang Z, Adams RP, de Freitas N. (2015) Taking the Human Out of the Loop: A Review of Bayesian Optimization. Proceedings of the IEEE, 104(1): 148-175.
-[10] Springenberg JT, Klein A, Falkner S, Hutter F. (2016) Bayesian Optimization with Robust Bayesian Neural Networks. NIPS.
+- [1] Salvatier J, Wiecki TV, Fonnesbeck C. (2016) Probabilistic programming in Python using PyMC3. PeerJ Computer Science 2:e55 https://doi.org/10.7717/peerj-cs.55 .
+- [2] Bayes T. (1763) An essay towards solving a Problem in the Doctrine of Chances. Philosophical Transactions of the Royal Society of London, 53: 370.
+- [3] Hastings, WK. (1970) Monte Carlo sampling methods using markov chains and their applications. Biometrika, 57(1): 97-109.
+- [4] Cipra BA. (2000) The Best of the 20th Century: Editors Name Top 10 Algorithms. SIAM News, 33(4).
+- [5] Duane S, Kennedy AD, Pendleton BJ, Roweth D. (1987). Hybrid Monte Carlo. Physics Letters B. 195 (2): 216–222. https://doi.org/10.1016/0370-2693(87)91197-X .
+- [6] Stan Development Team. (2015) Stan: a C++ library for probability and sampling . Available at http://mc-stan.org .
+- [7] Robbins H, Monro S. (1951) A stochastic approximation method. The Annals of Mathematical Statistics, 22(3): 400–407.
+- [8] Chen T, Fox EB, Guestrin C. (2014) Stochastic Gradient Hamiltonian Monte Carlo. In Proceedings of the 31st International Conference on Machine Learning. Beijing, China. JMLR: W&CP, 32.
+- [9] Shahriari B, Swersky K, Wang Z, Adams RP, de Freitas N. (2015) Taking the Human Out of the Loop: A Review of Bayesian Optimization. Proceedings of the IEEE, 104(1): 148-175.
+- [10] Springenberg JT, Klein A, Falkner S, Hutter F. (2016) Bayesian Optimization with Robust Bayesian Neural Networks. NIPS.
