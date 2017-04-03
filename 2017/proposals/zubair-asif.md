@@ -77,6 +77,8 @@ I will be away for this week for the UCLA Computational Genomics Summer Institut
 
 ### August 28th - August 29th, **Submit final work**
 
+Merge Pull Request! 
+
 ## Future works
 
 I want to continue contributing to PyMC3 even after the completion of this project. Apart from the work on stochastic gradient sampelrs, another project that I am passionate about is the implementation of ordinary differential equation (ODE) solvers in PyMC3. Applicaiton areas like systems biology and pharmacokinetics would greatly benefit from having such solvers in the PyMC3 and it will aid in adoption of Bayesian methods by these communities also. PyMC3 mentors have suggested this idea and I would like to take a stab at it. 
